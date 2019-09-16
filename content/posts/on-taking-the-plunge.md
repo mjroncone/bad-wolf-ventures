@@ -1,7 +1,7 @@
 ---
 title: "On taking the plunge"
 date: 2019-09-15T20:56:00-07:00
-draft: false
+draft: true
 toc: false
 images:
 tags:
